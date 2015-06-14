@@ -1,7 +1,7 @@
-# cabal-dependency-resolver
-Haskell Cabal packages dependency resolver
+# Cabal dependency resolver
 
-## Cabal dependency resolver
+Haskell Cabal packages dependency resolver.
+
 It used for Haskell package manager - Cabal. For some various situations when broken packages was appeared. It recursively unregister packages via ghc-pkg and all package depending packages.
 
 ## How to use:
